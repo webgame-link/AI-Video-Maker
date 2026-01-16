@@ -52,7 +52,7 @@ That's four specialized skills. Four separate careers.
 
 But what if you just want to get the music out of your head? What if your goal isn't to become a professional producer—you just want to hear your ideas in their full form?
 
-That's where tools like [MeloCool](https://melocool.com) fundamentally change the game. They separate the creative act from the technical execution.
+That's where tools [like MeloCool Video AI](https://melocool.com) fundamentally change the game. They separate the creative act from the technical execution.
 
 I could focus entirely on the emotion, the mood, the story—and let the technology handle the rest.
 
