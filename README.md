@@ -28,7 +28,7 @@ That night, I made a decision: I was going to do something with at least one of 
 
 I'd heard about AI music tools before but always dismissed them as gimmicks—robot composers that would spit out generic elevator music. But desperate times lead to curious experiments.
 
-I found an AI song creation platform, uploaded that rainy morning voice memo, and added a simple text prompt: "Turn this into a gentle acoustic piece with piano and soft strings."
+I found an AI song creation platform, uploaded that rainy morning voice memo, and added a simple text prompt: "[Turn this into a gentle acoustic](https://lyricstosongai.com/text-to-music) piece with piano and soft strings."
 
 What happened next genuinely shocked me.
 
@@ -52,7 +52,7 @@ That's four specialized skills. Four separate careers.
 
 But what if you just want to get the music out of your head? What if your goal isn't to become a professional producer—you just want to hear your ideas in their full form?
 
-That's where tools [like MeloCool Video AI](https://melocool.com) fundamentally change the game. They separate the creative act from the technical execution.
+That's where tools [like MeloCool Music AI](http://lyricstosongai.com/) fundamentally change the game. They separate the creative act from the technical execution.
 
 I could focus entirely on the emotion, the mood, the story—and let the technology handle the rest.
 
